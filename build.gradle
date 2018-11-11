@@ -5,7 +5,7 @@ repositories {
 	mavenCentral()
 }
 
-group = 'com.project.template'
+group = 'com.packt'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.9
 targetCompatibility = 1.9
